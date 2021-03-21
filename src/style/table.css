@@ -14,10 +14,12 @@
 .expenseTable thead tr th {
   color: white;
   padding: 18px;
+  text-align: center;
 }
 
 .expenseTable tbody td {
   padding: 18px;
+  text-align: center;
 }
 
 .expenseTable tbody tr:nth-child( odd ) {
