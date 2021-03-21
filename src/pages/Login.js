@@ -43,11 +43,11 @@ class Login extends React.Component {
     const { getEmail } = this.props;
     const { redirect } = this.state;
     if (redirect === true) {
-      return <Redirect to="/carteira" />;
+      return <Redirect to="/wallet/main" />;
     }
     return (
       <div className="position-absolute top-50 start-50 translate-middle login-box">
-        <img src="/currency_wallet.png" alt="wallet"/>
+        <img src="images/currency_wallet.png" alt="wallet"/>
         <h1>World Wallet</h1>
         <div>
           <input
