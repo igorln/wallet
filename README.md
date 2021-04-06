@@ -27,7 +27,7 @@ After each of the steps, there will be an example of the command to be typed to 
    npm i
 ```
 
-4. Finally, run the command **npm start** and access the project via browser, in the path `http: // localhost: 3000 / wallet`.
+4. Finally, run the command **npm start** and access the project via browser, in the path `http://localhost:3000/wallet`.
 
 ---
 
