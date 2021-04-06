@@ -12,6 +12,7 @@ The following tools were used in the construction of the project:
 
 - [ReactJS](https://reactjs.org)
 - [Redux](https://redux.js.org)
+- [Bootstrap](https://getbootstrap.com/)
 - [Npm](https://www.npmjs.com/)
 - [VSCode](https://code.visualstudio.com)
 - [Git Bash](https://gitforwindows.org/)
