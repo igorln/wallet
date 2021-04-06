@@ -11,6 +11,7 @@ This one was the first project in which I used `React` with `Redux`, with that I
 The following tools were used in the construction of the project:
 
 - [ReactJS](https://reactjs.org)
+- [Redux](https://redux.js.org)
 - [Npm](https://www.npmjs.com/)
 - [VSCode](https://code.visualstudio.com)
 - [Git Bash](https://gitforwindows.org/)
