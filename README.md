@@ -6,6 +6,17 @@ This one was the first project in which I used `React` with `Redux`, with that I
 
 ---
 
+## Technologies
+
+The following tools were used in the construction of the project:
+
+- [ReactJS](https://reactjs.org)
+- [Npm](https://www.npmjs.com/)
+- [VSCode](https://code.visualstudio.com)
+- [Git Bash](https://gitforwindows.org/)
+
+---
+
 ## Installation of the project locally
 
 After each of the steps, there will be an example of the command to be typed to do what is being asked, if you have difficulties and the example is not enough, do not hesitate to contact me at _igorln96@gmail.com_.
