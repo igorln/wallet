@@ -18,7 +18,7 @@ After each of the steps, there will be an example of the command to be typed to 
 2. Enter the directory you just created and then clone the project:
 ``` javascript
    cd projects-igorln
-   git clone git@github.com: igorln / wallet.git
+   git clone git@github.com:igorln/wallet.git
 ```
 
 3. Access the project directory and then use the command **npm i** to install all necessary dependencies:
@@ -30,8 +30,6 @@ After each of the steps, there will be an example of the command to be typed to 
 4. Finally, run the command **npm start** and access the project via browser, in the path `http: // localhost: 3000 / wallet`.
 
 ---
-
-# Deliverables
 
 ## What should be developed
 
