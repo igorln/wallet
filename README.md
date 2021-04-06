@@ -42,11 +42,7 @@ In this project I had to develop a portfolio of expenses control with currency c
 
 ---
 
-# Project requirements
-
-## List of requirements
-
-### Login Page
+## Project requirements
 
 #### 1. Create a login page
 
